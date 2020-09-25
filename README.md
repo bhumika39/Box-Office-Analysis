@@ -20,16 +20,13 @@ the number of films and total revenue per year is visualised, and the number of 
 
 ## The questions that were asked for the EDA are as follows:
 
-Do release days impact revenue?
-Is it reasonable to assume that movies released on weekends will gross higher revenues?
-Is there any Relationship between Runtime and Revenue?
-Do official homepages impact revenue?
-What is the distribution of languages across films?
-What are the common words in film titles and descriptions?
-Can we identify trends across movie titles and descriptions and their effect on revenue?
-How do film descriptions impact revenue?
-
-
-
+•	Do release days impact revenue?
+•	Is it reasonable to assume that movies released on weekends will gross higher revenues?
+•	Is there any Relationship between Runtime and Revenue?
+•	Do official homepages impact revenue?
+•	What is the distribution of languages across films?
+•	What are the common words in film titles and descriptions?
+•	Can we identify trends across movie titles and descriptions and their effect on revenue?
+•	How do film descriptions impact revenue?
 
 
